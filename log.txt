@@ -1,0 +1,36 @@
+Name: micheal
+Email: abc@gmail.com
+Phone Number: 888
+Inquiry: ksjdf noted till now
+Wants to work with you: True
+
+Name: sdf
+Email: sdf@gmail.com
+Phone Number: 8126449754
+Inquiry: sfd
+Wants to work with you: False
+
+Name: Lokesh Sharma
+Email: lokesh.sharma@students.iiit.ac.in
+Phone Number: 8126449754
+Inquiry: adasafsdfdsf
+Wants to work with you: True
+
+Name: Lokesh Sharma
+Email: lokesh.sharma@students.iiit.ac.in
+Phone Number: 8126449754
+Inquiry: adasafsdfdsf
+Wants to work with you: True
+
+Name: Lokesh Sharma
+Email: lokesh.sharma@students.iiit.ac.in
+Phone Number: 8126449754
+Inquiry: adasafsdfdsf
+Wants to work with you: True
+
+Name: Lokesh Sharma
+Email: lokesh.sharma@students.iiit.ac.in
+Phone Number: 8126449754
+Inquiry: adasafsdfdsf
+Wants to work with you: True
+
